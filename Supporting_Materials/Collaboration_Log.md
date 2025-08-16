@@ -37,3 +37,7 @@
   * Priya will present operations analysis
   * Holly will present Customer analysis and recommendations
 * Team will review strategic recommendations and pricing strategy, to finalize on Friday
+
+## Final Decisions
+* Team discussed how to best handle recommendations--by section or just one final slide via chat, ultimately decided to set it as a separate slide
+* Holly volunteered to submit the project
